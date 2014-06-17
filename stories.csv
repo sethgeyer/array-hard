@@ -1,0 +1,18 @@
+Id,Story,Labels,Iteration,Iteration Start,Iteration End,Story Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By
+73417008,sum an array,"",,,,feature,,unscheduled,"Jun 17, 2014",,,John Foley,"write a program that will add together all of the numbers in an array.
+Example:
+Given [1, 2, 3]
+your program prints 6.",https://www.pivotaltracker.com/story/show/73417008,
+73417306,Find out if an array is a subset of another,"",,,,feature,,unscheduled,"Jun 17, 2014",,,John Foley,"write a program that will determine if an array is contained inside of another array.
+Example:
+given [1, 2, 3] and [3, 2] the program will return true.
+given [1, 2, 3] and [2, 4] the program will return false.
+
+Try with other examples!",https://www.pivotaltracker.com/story/show/73417306,
+73416556,Count moves in a tic tac toe game,"",,,,feature,,unscheduled,"Jun 17, 2014",,,John Foley,"given a tic tac toe board that looks like:
+[['X', 'O', 'O'],['X', 'X', 'O'], ['O', 'X', 'O']]
+
+Count how many times X got to play in each row.
+Count how many times O got to play in each row.",https://www.pivotaltracker.com/story/show/73416556,
+73416842,FInd the coordinates of each move,"",,,,feature,,unscheduled,"Jun 17, 2014",,,John Foley,"Given the last array, write a program that will output an array that looks like: [[x1, y1], [x2, y2], ...] where x and y is the row and column of X's moves.",https://www.pivotaltracker.com/story/show/73416842,
+73416934,determine if the game is won,"",,,,feature,,unscheduled,"Jun 17, 2014",,,John Foley,"write a program that determines if X or O won the tic tac toe game. Start with the given board, but try it with other boards too!",https://www.pivotaltracker.com/story/show/73416934,
