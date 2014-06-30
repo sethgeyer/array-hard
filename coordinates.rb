@@ -1,4 +1,6 @@
-board = [['X', 'O', 'O'], ['X', 'X', 'O'], ['O', 'X', 'O']]
+board = [['X', 'O', 'O'],
+         ['X', 'X', 'O'],
+         ['O', 'X', 'O']]
 
 array_of_coordinates = []
 board.each_with_index do |row, ycoordinate|
@@ -20,3 +22,6 @@ p array_of_coordinates
 ['x1y2' , 'x2y2' , 'O']
 ['O'    , 'x2y1' , 'O']
 =end
+
+
+
